@@ -12,7 +12,7 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
  */
 public class Grid {
 
-    private static final int DEFAULT_ROW_COUNT = 6;
+    private static final int DEFAULT_ROW_COUNT = 9;
     private static final int DEFAULT_COLUMN_COUNT = 9;
 
     private Cell[][] cells;
